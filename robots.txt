@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://uhiwiuge.github.io/MYx/sitemap_index.txt
+Sitemap: https://uhiwiuge.github.io/RYJ/sitemap_index.txt
+Sitemap: https://uhiwiuge.github.io/cZe/sitemap_index.txt
+Sitemap: https://uhiwiuge.github.io/iRg/sitemap_index.txt
